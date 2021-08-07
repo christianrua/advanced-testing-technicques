@@ -2,7 +2,7 @@
 This is a repo for doing advance testing techniques
 
 AWS CODE BUILD
-https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiS3dQeUhyc1kvYkNvRUE0S0ptcnJuWE1GNlFGRzRleWdndE9RQnBQNmdHOE5ZcFRHMUFJTzM2dGxiQ0ZCeFBqVnoyR0x3ZkxhdmEyREllQnZKc1JlTW9FPSIsIml2UGFyYW1ldGVyU3BlYyI6IklsSWhkaWZJZ1RHL0pqakUiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
+[![AWS_Badge]](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiS3dQeUhyc1kvYkNvRUE0S0ptcnJuWE1GNlFGRzRleWdndE9RQnBQNmdHOE5ZcFRHMUFJTzM2dGxiQ0ZCeFBqVnoyR0x3ZkxhdmEyREllQnZKc1JlTW9FPSIsIml2UGFyYW1ldGVyU3BlYyI6IklsSWhkaWZJZ1RHL0pqakUiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 
 ## Setup Project
 
