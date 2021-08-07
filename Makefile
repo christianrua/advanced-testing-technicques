@@ -1,5 +1,5 @@
 install:
-		pip install --upgrade && pip install -r requirements.txt
+		pip install --upgrade pip && pip install -r requirements.txt
 
 test:
 		python3 -m pytest -vv --cov=hello --cov=hellocli test_hello.py
